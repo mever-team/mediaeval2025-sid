@@ -46,7 +46,9 @@ Validation dataset can be downloaded [here](https://artifacts.mever.iti.gr/Media
 
 - **10k images for testing**
 
-The **test set** consists of 10k images collected from social media platforms, similar in nature to the images in the validation set. **The test dataset will be sent ONLY to registered participants who have signed and returned the usage agreement.**
+The **test set** consists of 10k images collected from social media platforms, similar in nature to the images in the validation set. 
+
+⚠️ **The test dataset will be sent ONLY to registered participants who have signed and returned the usage agreement.**
 
 ---
 
@@ -135,7 +137,9 @@ coco/
 
 The validation dataset can be found [here](https://artifacts.mever.iti.gr/MediaEval2025/taskb_val.tar). 
 
-The test dataset is of the same nature as the validation dataset. It contains original images sourced from **COCO**, **RAISE**, and **OpenImages**, and the same manipulation methods have been applied to generate the altered versions. Participants are provided with all test images, both original and manipulated, without any labels or additional metadata. **The test dataset will be sent ONLY to registered participants who have signed and returned the usage agreement.**
+The test dataset is of the same nature as the validation dataset. It contains original images sourced from **COCO**, **RAISE**, and **OpenImages**, and the same manipulation methods have been applied to generate the altered versions. Participants are provided with all test images, both original and manipulated, without any labels or additional metadata. 
+
+⚠️ **The test dataset will be sent ONLY to registered participants who have signed and returned the usage agreement.**
 
 ---
 
