@@ -137,6 +137,14 @@ coco/
 
 The validation dataset can be found [here](https://artifacts.mever.iti.gr/MediaEval2025/taskb_val.tar). 
 
+A separete CSV file provides detailed information for each image in the validation set, including the manipulation method and the image generation strategy.
+
+- The `type` column indicates the nature of the manipulation:
+  - `"sp"` (spliced): The region outside the inpainting mask has been preserved using post-processing techniques.
+  - `"fr"` (fully regenerated): The entire image, including regions outside the inpainting mask, has been regenerated.
+
+📄 [**Download validation details CSV**](taskB_val.csv)
+
 The test dataset is of the same nature as the validation dataset. It contains original images sourced from **COCO**, **RAISE**, and **OpenImages**, and the same manipulation methods have been applied to generate the altered versions. Participants are provided with all test images, both original and manipulated, without any labels or additional metadata. 
 
 ⚠️ **The test dataset will be sent ONLY to registered participants who have signed and returned the usage agreement.**
