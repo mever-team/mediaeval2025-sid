@@ -178,8 +178,8 @@ In addition to the mask files, participants must submit a CSV file named scores.
 
 🧪 Example:
 ```
-image_id,prob,label,threshold  
-image_000123.jpg,0.715,1,0.5
+image_id,prob,label,threshold,loc_threshold  
+image_000123.jpg,0.715,1,0.5,0.5
 ```
 
 ---
