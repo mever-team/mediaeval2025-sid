@@ -189,7 +189,7 @@ image_000123.jpg,0.715,1,0.5,0.5
 | Event              | Date               |
 |--------------------|--------------------|
 | Data release       | June 20            |
-| Runs due           | September 15       |
+| Runs due           | September 30       |
 | Paper submission   | October 8          |
 | Workshop           | October 25–26      |
 
